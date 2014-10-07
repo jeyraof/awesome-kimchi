@@ -18,6 +18,7 @@ Baek_Kimchi_
 
 .. _Baek_Kimchi: http://en.wikipedia.org/wiki/Baek_kimchi
 
+
 God_Kimchi_
     Variety of kimchi made with mustard. Also known as pickled mustard leaves and stems,
     mustard pickles
@@ -36,3 +37,14 @@ Dongchimi_
    Other link: `동치미(korean) <http://ko.wikipedia.org/wiki/%EB%8F%99%EC%B9%98%EB%AF%B8>`_
 
 .. _Dongchimi: http://en.wikipedia.org/wiki/Dongchimi
+
+
+Yeolmu_Kimchi_
+    Yeolmu Kimchi (Hangul: 열무김치), also known as Young Radish(yeolmu_) Water Kimchi,
+    is one of the many types of Kimchi, a popular banchan (Korean side dish).
+
+    Other link: `열무김치(korean) <http://terms.naver.com/entry.nhn?docId=1126803>`_
+
+.. _Yeolmu_Kimchi: http://en.wikipedia.org/wiki/Yeolmu_kimchi
+.. _yeolmu: http://terms.naver.com/entry.nhn?docId=1235404
+
