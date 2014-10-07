@@ -28,3 +28,11 @@ God_Kimchi_
 
 .. _God_Kimchi: http://endic.naver.com/krenEntry.nhn?sLn=en&entryId=7d01154cfcc8400696a8d473d01aebb0
 
+
+Dongchimi_
+   Variety of kimchi consisting of daikon, baechu, scallions, fermented green
+   chili, ginger, bae and watery brine in Korean cuisine.
+
+   Other link: `동치미(korean) <http://ko.wikipedia.org/wiki/%EB%8F%99%EC%B9%98%EB%AF%B8>`_
+
+.. _Dongchimi: http://en.wikipedia.org/wiki/Dongchimi
