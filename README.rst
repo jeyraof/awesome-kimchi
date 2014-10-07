@@ -14,7 +14,7 @@ Baek_kimchi_
    Variety of kimchi made without the chili pepper powder commonly used for fermenting kimchi in 
    Korean cuisine. (a.k.a. White kimchi)
 
-   - 백김치(korean)_
+   Other link: 백김치(korean)_
 
 .. _Baek_kimchi: http://en.wikipedia.org/wiki/Baek_kimchi
 .. _백김치(korean): http://ko.wikipedia.org/wiki/%EB%B0%B1%EA%B9%80%EC%B9%98
