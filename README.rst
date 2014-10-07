@@ -24,7 +24,7 @@ God_Kimchi_
     
     Other link: `갓김치(korean) <http://terms.naver.com/entry.nhn?docId=1624558>`_
     
-    `Recipe <http://terms.naver.com/entry.nhn?docId=1988825>`_
+    This is `Recipe <http://terms.naver.com/entry.nhn?docId=1988825>`_ for making God_kimchi
 
 .. _God_Kimchi: http://endic.naver.com/krenEntry.nhn?sLn=en&entryId=7d01154cfcc8400696a8d473d01aebb0
 
