@@ -21,7 +21,7 @@ Baek_Kimchi_
 
 God_Kimchi_
     Variety of kimchi made with mustard. Also known as pickled mustard leaves and stems,
-    mustard pickles
+    mustard pickles.
 
     Other link: `갓김치(korean) <http://terms.naver.com/entry.nhn?docId=1624558>`_
 
