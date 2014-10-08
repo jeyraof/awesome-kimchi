@@ -11,7 +11,7 @@ Korean Kimchi
 -------------
 
 Baek_Kimchi_
-   Variety of kimchi made without the chili pepper powder commonly used for fermenting kimchi in 
+   Variety of kimchi made without the chili pepper powder commonly used for fermenting kimchi in
    Korean cuisine. (a.k.a. White kimchi)
 
    Other link: `백김치(korean) <http://ko.wikipedia.org/wiki/%EB%B0%B1%EA%B9%80%EC%B9%98>`_
@@ -22,9 +22,9 @@ Baek_Kimchi_
 God_Kimchi_
     Variety of kimchi made with mustard. Also known as pickled mustard leaves and stems,
     mustard pickles
-    
+
     Other link: `갓김치(korean) <http://terms.naver.com/entry.nhn?docId=1624558>`_
-    
+
     This is `Recipe <http://terms.naver.com/entry.nhn?docId=1988825>`_ for making God_kimchi
 
 .. _God_Kimchi: http://endic.naver.com/krenEntry.nhn?sLn=en&entryId=7d01154cfcc8400696a8d473d01aebb0
@@ -47,4 +47,3 @@ Yeolmu_Kimchi_
 
 .. _Yeolmu_Kimchi: http://en.wikipedia.org/wiki/Yeolmu_kimchi
 .. _yeolmu: http://terms.naver.com/entry.nhn?docId=1235404
-
