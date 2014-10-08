@@ -47,3 +47,15 @@ Yeolmu_Kimchi_
 
 .. _Yeolmu_Kimchi: http://en.wikipedia.org/wiki/Yeolmu_kimchi
 .. _yeolmu: http://terms.naver.com/entry.nhn?docId=1235404
+
+
+Kkakdugi_
+   Kkakdugi is a variety of kimchi in Korean cuisine. Usually, it has all the ingredients
+   of kimchi, but the baechu (hangul: 배추; Napa cabbage) used for kimchi is replaced with Korean
+   white radish (called mu, 무 in Korean). Kkakdugi is a popular banchan (Korean side dish).
+
+   Other link: `깍두기(korean) <http://ko.wikipedia.org/wiki/%EA%B9%8D%EB%91%90%EA%B8%B0>`_
+
+   This is `Recipe <http://terms.naver.com/entry.nhn?docId=1988770>`_ for making Kkakdugi.
+
+.. _Kkakdugi: http://en.wikipedia.org/wiki/kkakdugi
