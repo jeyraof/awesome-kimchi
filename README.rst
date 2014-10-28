@@ -59,3 +59,19 @@ Kkakdugi_
    This is `Recipe <http://terms.naver.com/entry.nhn?docId=1988770>`_ for making Kkakdugi.
 
 .. _Kkakdugi: http://en.wikipedia.org/wiki/kkakdugi
+
+
+Matching foods
+-------------
+
+Makgeolli_
+   Known as "makkoli", "makoli", "makguli", or "makuly (takju)", 
+   is an alcoholic beverage native to Korea. It is made from rice or wheat mixed with nuruk, 
+   a Korean fermentation starter. It has a milky, off-white color and sweetness, 
+   and is about 6–8% alcohol by volume. Makgeolli is traditionally made from rice, 
+   although variations are made from wheat, and some brands are flavored with corn, 
+   chestnut, apple or other produce.
+
+   Other link: `막걸리(korean) <http://ko.wikipedia.org/wiki/%EB%A7%89%EA%B1%B8%EB%A6%AC>`_
+
+.. _Makgeolli: http://en.wikipedia.org/wiki/Makgeolli
